@@ -1,4 +1,4 @@
 # Robo para avaliar estratégias na NBA
 
 ## TODO:
-- achar, guardar, alertar e avisar entrada em estratégia de spread alto
+- achar[V], guardar[V], alertar[V] e avisar[V] entrada em estratégia de spread alto
